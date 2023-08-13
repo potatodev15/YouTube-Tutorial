@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    li {
+        @apply p-4
+    }
+
+    li:hover {
+        @apply text-neutral-600 transition-all ease-in-out duration-300
+    }
+}
