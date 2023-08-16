@@ -16,7 +16,7 @@ const Hero = () => {
             </a>
             <a href="" className='w-[40%] gap-2 flex flex-row justify-center items-center p-4 font-bolt font-roboto text-black border-black border-2 bg-white font-bold transition-all ease-in-out hover:bg-black hover:text-white'>
               <BsArrowDownRight size={20} className='hover:text-white'/> View other models
-            </a>sf
+            </a>
           </div>
         </div>
         {/* Image */}
