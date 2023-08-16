@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className='w-full'>
       <div className='max-w-[1240px] mx-auto h-24 flex flex-row justify-between items-center'>
         {/* Вариант 1 */}
-        {/* <div>
+        <div>
           <AiFillDribbbleCircle size={40} className='transition-all ease-in-out duration300 hover:text-neutral-600 cursor-pointer'/>
         </div>
         <ul className='flex'>
@@ -15,7 +15,7 @@ const Navbar = () => {
           <li className='cursor-pointer transition-all ease-in-out duration300'>About</li>
           <li className='cursor-pointer transition-all ease-in-out duration300'>Pricing</li>
           <li className='cursor-pointer transition-all ease-in-out duration300'>Contact</li>
-        </ul> */}
+        </ul>
 
         {/* Вариант 2 */}
         {/* <div>
