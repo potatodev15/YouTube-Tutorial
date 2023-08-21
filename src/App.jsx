@@ -1,4 +1,5 @@
 import Hero from './components/Hero'
+import Marketing from './components/Marketing'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />
+      <Marketing />
     </div>
   )
 }
